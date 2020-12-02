@@ -2,7 +2,7 @@
 
 <!--- Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui --->
 
-Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 frases. Não exagere, as pessoas não vão ler.
+> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 frases. Não exagere, as pessoas não vão ler.
 
 ## Pré-requisitos
 
@@ -47,7 +47,7 @@ Para contribuir com <project_name>, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Colaboradores
+## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -65,10 +65,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-## Seja um dos contribuidores<br>
+## 😄 Seja um dos contribuidores<br>
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-## Licença
+## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
