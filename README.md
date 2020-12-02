@@ -108,4 +108,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#-nome-do-projeto)<br>
+[⬆ Voltar ao topo](#nome-do-projeto)<br>
