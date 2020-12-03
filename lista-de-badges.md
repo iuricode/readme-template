@@ -21,7 +21,7 @@
 - [🎶 Sound](#-sound-)
 - [🍔🍕 Food](#-food-)
 
-## 📱 Contato [🔝](#ìndice)
+## 📱 Contato [🔝](#índice)
 
 Badge | URL 
 ------------ | ------------- 
