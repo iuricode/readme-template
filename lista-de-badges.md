@@ -4,6 +4,7 @@
 1. Obtenha um URL
 2. Crie uma tag img ```<img src =" BadgeURLHere "/>```
 3. Copie e cole no seu perfil
+4. Depois do *Color=white* coloque ```&link=link-para-onde-vai```
 
 ## Índice
 
