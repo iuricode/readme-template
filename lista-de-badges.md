@@ -7,7 +7,7 @@
 
 ## Índice
 
-- [📱 Contato](#-contato)
+- [📱 Contato](#-contato-)
 - [🤜🤛 Group](#-group-)
 - [👨 Social](#-social-)
 - [🛒 Store](#-store-)
@@ -21,7 +21,7 @@
 - [🎶 Sound](#-sound-)
 - [🍔🍕 Food](#-food-)
 
-## 📱 Contato [🔝](#-como-usar?)
+## 📱 Contato [🔝](#como-usar?)
 
 Badge | URL 
 ------------ | ------------- 
