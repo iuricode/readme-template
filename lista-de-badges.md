@@ -8,18 +8,18 @@
 ## Índice
 
 - [📱 Contato](#-contato-)
-- [🤜🤛 Group](#-group-)
+- [💜 Grupo](#-grupo-)
 - [👨 Social](#-social-)
-- [🛒 Store](#-store-)
+- [🛒 Loja](#-loja-)
 - [💻 OS](#-os-)
 - [📝 Blog](#-blog-)
 - [🎞 Streaming](#-streaming-)
-- [🚀 Skills](#-skills-)
+- [🚀 Conhecimento](#-conhecimento-)
 - [💻 Workspace Spec](#-workspace-spec-)
-- [🎮 Games](#-games-)
-- [❤ Funding](#-funding-)
-- [🎶 Sound](#-sound-)
-- [🍔🍕 Food](#-food-)
+- [🎮 Jogos](#-jogos-)
+- [❤ Financiamento](#-financiamento-)
+- [🎶 Música](#-músicas-)
+- [🍕 Comida](#-comida-)
 
 ## 📱 Contato [🔝](#índice)
 
@@ -32,7 +32,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
 
-## 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
+## 💜 Grupo [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -42,10 +42,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`
 
 
-
-
-
-## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
+## 👨👩 Social [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -61,16 +58,14 @@ Badge | URL
 <img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white`
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white`
 
-## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
-
+## 🛒 Loja [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> | `https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white`
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white`
 
-## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
-
+## 💻 OS [🔝](#índicee)
 
 Badge | URL
 ------------ | -------------
@@ -85,7 +80,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" /> | `https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white`
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white`
 
-## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
+## 📝 Blog [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -95,7 +90,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /> | `https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white`
 <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`
 
-## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
+## 🎞 Streaming [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -107,7 +102,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
 
 
-## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
+## 🚀 Conhecimento [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -186,7 +181,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> | `https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white`
 
 
-## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 Workspace Spec [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -198,8 +193,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white`
 
 
-## 🎮🕹 Games [🔝](#welcome-badges-4-readmemd-profile)
-
+## 🎮🕹 Jogos [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -213,9 +207,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
 
 
-
-## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
-
+## ❤ Financiamento [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -225,7 +217,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> | `https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white`
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> | `https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white`
 
-## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
+## 🎶 Música [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
@@ -237,7 +229,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /> | `https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white`
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /> | `https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white`
 
-## 🍔🍕 Food [🔝](#welcome-badges-4-readmemd-profile)
+## 🍕 Comidas [🔝](#índice)
 
 Badge | URL
 ------------ | -------------
