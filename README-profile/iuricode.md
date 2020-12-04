@@ -30,13 +30,18 @@ Exemplos de badges
 
 Para alterar ou editar os badges:
 <br>
-'img src = "https://img.shields.io/badge/-<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>"'
+'img src = "https://img.shields.io/badge/<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>"'
 
 >Altere as informações dos campos apagando os '<>' 
+<br>
 Label = Texto que sera exibido
+<br>
 Color_Badges = Background do badge
+<br>
 Style = Estilo do badge
+<br>
 Name_Icon = Nome do icone, a api utiliza os icones do site: <a href="https://simpleicons.org/" alt="Simple Icons"> <p> Simple Icons </p> </a>
+<br>
 Color_Logo = Cor do logo
 
 Todos detalhes de como gerar um **Badge** esta no site <a href="https://shields.io/" alt="Shields"> <p> Shields </p> </a> assim como a explicação de todos os campos acima
