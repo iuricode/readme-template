@@ -8,6 +8,7 @@
   Uma breve descrição sua. <strong>Sua areá de atuação</strong>.<br> 
 </p>
 <br>
+
 ![github stats exemplo](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&theme=dracula)
 ![You Name's github stats](https://github-readme-stats.vercel.app/api?username=<USER_NAME>&show_icons=true&theme=dracula)
 
@@ -18,8 +19,10 @@
   🦄 Linguagens: </strong>
 <br>
 Exemplos de badges
+<br>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<br>
 Para alterar ou editar os badges:
 <br>
 'img src = "https://img.shields.io/badge/<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>"'
