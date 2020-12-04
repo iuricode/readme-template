@@ -5,7 +5,7 @@
 <br>
 <br>
 <p align="left"> 
-  Uma breve descrição sua <strong>Sua areá de atuação</strong>.<br>
+  Uma breve descrição sua. <strong>Sua areá de atuação</strong>.<br>
   
 </p>
 <br>
