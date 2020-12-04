@@ -1,35 +1,60 @@
+## Olá 😃, seja bem vindo!!!
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<br>
+<br>
+<br>
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Uma breve descrição sua <strong>Sua areá de atuação</strong>.<br>
+  
 </p>
+<br>
 
+![You Name's github stats](https://github-readme-stats.vercel.app/api?username=<USER_NAME>&show_icons=true&theme=dracula)
+
+>Para Modificar o github stats ao seu gosto: <a href="https://github.com/anuraghazra/github-readme-stats" alt="Repositorio"> <p> Repositorio api </p> </a>
+
+  
+
+<br>
+<br>
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
+  🦄 Linguagens: </strong>
+<br>
 
+Exemplos de badges
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+
+Para alterar ou editar os badges:
+<img src = "https://img.shields.io/badge/-<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>">
+
+>Altere as informações dos campos apagando os '<>' 
+Label = Texto que sera exibido
+Color_Badges = Background do badge
+Style = Estilo do badge
+Name_Icon = Nome do icone, a api utiliza os icones do site: <a href="https://simpleicons.org/" alt="Simple Icons"> <p> Simple Icons </p> </a>
+Color_Logo = Cor do logo
+
+Todos detalhes de como gerar um **Badge** esta no site <a href="https://shields.io/" alt="Shields"> <p> Shields </p> </a> assim como a explicação de todos os campos acima
+
+<br>
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
+  💼 Ferramentas: </strong>
+<br>
+Exemplos de badges
+<img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF">
 
+</p>
+<br>
+<br>
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato: ⤵️
 </p>
-
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=<EMAIL>" /></a>
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=<LINKEDIN>" /></a>
 </p>  
