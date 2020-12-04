@@ -23,23 +23,32 @@ Exemplos de badges
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <br>
+<br>
 Para alterar ou editar os badges:
+<br>
 <br>
 'img src = "https://img.shields.io/badge/<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>"'
 >Altere as informações dos campos apagando os '<>' 
 <br>
+  <br>
 Label = Texto que sera exibido
 <br>
+  <br>
 Color_Badges = Background do badge
 <br>
+  <br>
 Color_Logo = Cor do logo
 <br>
+  <br>
 Style = Estilo do badge
 <br>
+  <br>
 Name_Icon = Nome do icone, a api utiliza os icones do site: <a href="https://simpleicons.org/" alt="Simple Icons"> <p> Simple Icons </p> </a>
 <br>
+  <br>
 Todos detalhes de como gerar um **Badge** esta no site <a href="https://shields.io/" alt="Shields"> <p> Shields </p> </a> assim como a explicação de todos os campos acima
 <br>
+  <br>
 <p align="left">
   💼 Ferramentas: </strong>
 <br>
