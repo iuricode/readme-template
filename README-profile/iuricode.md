@@ -11,7 +11,7 @@
 <br>
 
 
-![github stats exemplo](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)
+![github stats exemplo](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&theme=dracula)
 ![You Name's github stats](https://github-readme-stats.vercel.app/api?username=<USER_NAME>&show_icons=true&theme=dracula)
 
 >Para Modificar o github stats ao seu gosto: <a href="https://github.com/anuraghazra/github-readme-stats" alt="Repositorio"> <p> Repositorio api </p> </a>
