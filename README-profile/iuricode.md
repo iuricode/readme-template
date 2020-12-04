@@ -10,6 +10,8 @@
 </p>
 <br>
 
+
+![github stats exemplo](https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=dracula)
 ![You Name's github stats](https://github-readme-stats.vercel.app/api?username=<USER_NAME>&show_icons=true&theme=dracula)
 
 >Para Modificar o github stats ao seu gosto: <a href="https://github.com/anuraghazra/github-readme-stats" alt="Repositorio"> <p> Repositorio api </p> </a>
