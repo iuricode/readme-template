@@ -13,9 +13,3 @@ Eu sou desenvolvedor **sua área**.
 
 </p>
 <hr>
-
-### Entre em contato comigo em algumas dessas redes sociais:
-
-[![Gmail Badge](https://img.shields.io/badge/-Email-f8efd4?style=flat-square&logo=Gmail&logoColor=783c00&link=mailto:seu-email)](mailto:seu-email)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f8efd4?style=flat-square&logo=Linkedin&logoColor=783c00&link=link-do-seu-linkedin)](link-do-seu-linkedin)
-[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-f8efd4?style=flat-square&logo=StackOverflow&logoColor=783c00&link=link-do-seu-stackoverflow)](link-do-seu-stackoverflow)
