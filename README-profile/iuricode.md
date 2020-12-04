@@ -11,7 +11,7 @@
 <br>
 
 
-![github stats exemplo](https://github-readme-stats.vercel.app/api?username=github&show_icons=true&theme=dracula)
+![github stats exemplo](https://github-readme-stats.vercel.app/api?username=vercel&show_icons=true&theme=dracula)
 ![You Name's github stats](https://github-readme-stats.vercel.app/api?username=<USER_NAME>&show_icons=true&theme=dracula)
 
 >Para Modificar o github stats ao seu gosto: <a href="https://github.com/anuraghazra/github-readme-stats" alt="Repositorio"> <p> Repositorio api </p> </a>
@@ -29,7 +29,8 @@ Exemplos de badges
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 Para alterar ou editar os badges:
-<img src = "https://img.shields.io/badge/-<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>">
+<br>
+'<img src = "https://img.shields.io/badge/-<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>">'
 
 >Altere as informações dos campos apagando os '<>' 
 Label = Texto que sera exibido
