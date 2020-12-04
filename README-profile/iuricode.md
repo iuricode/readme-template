@@ -30,7 +30,7 @@ Exemplos de badges
 
 Para alterar ou editar os badges:
 <br>
-'<img src = "https://img.shields.io/badge/-<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>">'
+'img src = "https://img.shields.io/badge/-<Label>-<Color_Badges>?style=<Style_Badge>&logo=<Name_Icon>&logoColor=<Color_Logo>"'
 
 >Altere as informações dos campos apagando os '<>' 
 Label = Texto que sera exibido
