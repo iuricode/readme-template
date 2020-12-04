@@ -52,7 +52,9 @@ Todos detalhes de como gerar um **Badge** esta no site <a href="https://shields.
 <p align="left">
   💼 Ferramentas: </strong>
 <br>
+  
 Exemplos de badges
+<br>
 <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=FFFFFF">
 </p>
