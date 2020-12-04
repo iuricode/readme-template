@@ -2,9 +2,9 @@
 
 ## ☕ Selecione o README que deseja usar<br>
 
-[![PERFIL](https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=black&color=FF8000)](https://github.com/iuricode/README-template/tree/main/README-profile)
+[![PERFIL](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://github.com/iuricode/README-template/tree/main/README-profile)
 
-[![REPOSITÓRIO](https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html&logoColor=black&color=FF8000)](https://github.com/iuricode/README-template/tree/main/README-repository)
+[![REPOSITÓRIO](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/README-template/tree/main/README-repository)
 
 <br>
 
