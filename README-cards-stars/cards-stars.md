@@ -1,4 +1,4 @@
-## Como os Cards :monocle_face:
+## Como usar os Cards? :monocle_face:
 
 Como usar? É simples! Copie e cole em seu conteúdo de markdown e pronto.
 
