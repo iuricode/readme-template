@@ -14,10 +14,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/iuricode">
+      <a href="#">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars1.githubusercontent.com/u/43486606" width="100px;" alt="Foto do Marcelo Santos"/><br>
+        <sub>
+          <b>Marcelo Santos</b>
         </sub>
       </a>
     </td>
