@@ -1,15 +1,15 @@
 ## Como usar os Badges?
-1. Get a URL
+1. Pegue a URL
 2. Cria a img ``` <img src="BadgeURLAqui" /> ``` ou ``` ![image](BadgeURLAqui) ```
 3. Copie e cole no seu perfil
 
 ## Menu
-- [Contato](#-contato-)
-- [Social](#-social-)
-- [Blog](#-blog-)
-- [Streaming](#-streaming-)
-- [Skills](#-skills-)
-- [Jogos](#-jogos-)
+- [Contato](#contato)
+- [Social](#social)
+- [Blog](#blog)
+- [Streaming](#streaming)
+- [Skills](#skills)
+- [Jogos](#jogos)
 
 ## Contato
 
