@@ -34,6 +34,14 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars0.githubusercontent.com/u/57146734" width="100px;" alt="Foto da Vanessa Swerts"/><br>
+        <sub>
+          <b>Vanessa Swerts</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
