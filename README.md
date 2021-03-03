@@ -42,6 +42,14 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/leosantosx">
+        <img src="https://avatars.githubusercontent.com/u/48372094" width="100px;" alt="Foto de Leo santos"/><br>
+        <sub>
+          <b>Leo Santos</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
