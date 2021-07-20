@@ -38,7 +38,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 ## Temas :art:
 
-Altere o `defalut` para o nome do tema que deseja usar.
+Altere o `default` para o nome do tema que deseja usar.
 
 Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula.
 
