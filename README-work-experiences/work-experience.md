@@ -14,7 +14,7 @@ Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikiped
 **Frot-end Developer (Jr)** \
 [**Rocketseat**](https://rocketseat.com.br/) • Contract \
 Languages & Technologies: `JavaScript`, `Node`, `React`\
-Featured Projects: [Ignite](), [Bootcamp]()
+Projects: [Ignite](), [Bootcamp]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
