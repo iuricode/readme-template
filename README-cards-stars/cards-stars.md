@@ -13,7 +13,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 ### Adicionando icones :thumbsup:
 
 ```md
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/iuricode/)
 ```
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/iuricode/)
