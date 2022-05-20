@@ -1,4 +1,4 @@
-<img src="exemplo-image.png" alt="exemplo imagem">
+[include](File:Teste.md)
 
 # Nome Do Projeto
 
