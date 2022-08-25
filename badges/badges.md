@@ -162,7 +162,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black" /> | `https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black`
 <img src="https://img.shields.io/badge/Consul-FFFFFF?style=for-the-badge&logo=consul&logoColor=black" /> | `https://img.shields.io/badge/Consul-FFFFFF?style=for-the-badge&logo=consul&logoColor=black`
 <img src="https://img.shields.io/badge/Istio-516BAA?style=for-the-badge&logo=istio&logoColor=white" /> | `https://img.shields.io/badge/Istio-516BAA?style=for-the-badge&logo=istio&logoColor=white`
-<img src="https://img.shields.io/badge/Valt-FFFFFF?style=for-the-badge&logo=vault&logoColor=black" /> | `https://img.shields.io/badge/Valt-FFFFFF?style=for-the-badge&logo=vault&logoColor=black`
+<img src="https://img.shields.io/badge/Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black" /> | `https://img.shields.io/badge/Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black`
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> | `https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white`
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white`
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> | `https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black`
