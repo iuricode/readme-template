@@ -169,6 +169,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> | `https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white`
 <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white`
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> | `https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black`
+<img src="https://img.shields.io/badge/Sequelize-52B0E6?style=for-the-badge&logo=sequelize&logoColor=white" /> | `https://img.shields.io/badge/Sequelize-52B0E6?style=for-the-badge&logo=sequelize&logoColor=white`
+
 
 ## Jogos
 
