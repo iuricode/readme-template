@@ -1,6 +1,6 @@
-## Como usar os Cards? :monocle_face:
+## Como usar os cards?
 
-Como usar? É simples! Copie e cole em seu conteúdo de markdown e pronto.
+Como usar? É simples: copie e cole em seu readme e pronto!
 
 Altere o `iuricode` para o nome de usuário do GitHub.
 
@@ -10,7 +10,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-### Adicionando icones :thumbsup:
+### Adicionando ícones
 
 ```md
 [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,7 +18,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Mostrar Linguagens
+## Mostrar linguagens
 
 ```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +26,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-## ou
+## Ou
 
 ```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,11 +36,11 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 ---
 
-## Temas :art:
+## Temas
 
 Altere o `default` para o nome do tema que deseja usar.
 
-Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula.
+Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast e dracula.
 
 ### Padrão
 
@@ -64,7 +64,7 @@ Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, 
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=merko)]([https://github.com/iuricode/](https://github.com/anuraghazra/github-readme-stats))
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=merko)](<[https://github.com/iuricode/](https://github.com/anuraghazra/github-readme-stats)>)
 
 ### Gruvbox
 
@@ -107,3 +107,7 @@ Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+- [GitHub readme stats](https://github.com/anuraghazra/github-readme-stats)

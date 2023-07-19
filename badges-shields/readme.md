@@ -1,10 +1,12 @@
-## Como usar os Badges?
+## Como usar os badges shields?
+
 1. Pegue a URL
-2. Cria a img ``` <img src="BadgeURLAqui" /> ``` ou ``` ![image](BadgeURLAqui) ```
-3. Copie e cole no seu perfil
+2. Cria a tag img `<img src="BadgeURLAqui" />` ou `![image](BadgeURLAqui)`
+3. Copie e cole no seu readme
 
 ## Menu
-- [Como usar os Badges?](#como-usar-os-badges)
+
+- [Como usar os badges shields?](#como-usar-os-badges-shields)
 - [Menu](#menu)
 - [Contato](#contato)
 - [Social](#social)
@@ -15,7 +17,7 @@
 
 ## Contato
 
-Badge | URL
+| Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
@@ -24,7 +26,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> | `https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
 
-## Social 
+## Social
 
 Badge | URL
 ------------ | -------------
@@ -182,3 +184,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /> | `https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white`
 <img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" /> | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
+
+---
+
+- [Badges shields](https://github.com/badges/shields)
+
+[def]: #como-usar-os-badges-shields
