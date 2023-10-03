@@ -1,3 +1,5 @@
+# Olá, Escreva Seu Nome!
+
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -15,7 +17,7 @@
   </tr>
 </table><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+---
 
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
@@ -24,7 +26,7 @@
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
