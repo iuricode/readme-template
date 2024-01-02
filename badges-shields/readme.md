@@ -187,6 +187,24 @@ Badge | URL
 
 ---
 
+## Outros tipos de Badges
+
+Definimos o estilo através do parâmetro *style=* seguido do estilo escolhido. Aqui tem uma lista dos estilos disponíveis:
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | Flat (padrão)
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /> | Flat square
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" /> | Plastic
+
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | For the badge
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=white" /> | Social
+
+---
+
+
 - [Badges shields](https://github.com/badges/shields)
 
 [def]: #como-usar-os-badges-shields

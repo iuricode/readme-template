@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<h3>Sobre mim</h3>
+## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-<h3>Minhas Skills</h3>
+## Minhas Skills
 
 **Aplicações e dados**
 
@@ -49,7 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
-<h3>Onde me encontrar</h3>
+## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)

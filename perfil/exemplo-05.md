@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é {seu nome}!
 
-> Faça uma breve aprensentação sobre você e a sua área.
+Faça uma breve aprensentação sobre você e a sua stack.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
@@ -25,6 +25,6 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
