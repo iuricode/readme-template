@@ -12,6 +12,7 @@
 - [Social](#social)
 - [Blog](#blog)
 - [Streaming](#streaming)
+- [IDES](#ides)
 - [Skills](#skills)
 - [Jogos](#jogos)
 
@@ -65,6 +66,18 @@ Badge | URL
 <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" /> | `https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white`
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" /> | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
+
+---
+
+## IDES
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=00000"> | `https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=00000`
+<img src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"> | `https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000`
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">| `https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC`
+
+---
 
 ## Skills
 
