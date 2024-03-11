@@ -66,6 +66,17 @@ Badge | URL
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" /> | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
 
+---
+
+## IDES
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=00000"> | `https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider&logoColor=00000`
+<img src="https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000"> | `https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000`
+
+---
+
 ## Skills
 
 Badge | URL
