@@ -1,4 +1,4 @@
-#### Copyright © 2020 / [Iuri Silva](https://github.com/iuricode)
+#### Copyright © 2020 / [Tuerê Pinto](https://github.com/tuerepinto)
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, sem restrição nos direitos de usar, copiar, modificar e mesclar.
 
