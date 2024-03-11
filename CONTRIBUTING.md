@@ -1,6 +1,6 @@
 # Como contribuir?
 
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/iuricode/readme-template/issues/new).
+Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/tuerepinto/readme-template/issues/new).
 
 ## Passos
 
@@ -11,4 +11,4 @@ Este é um projeto totalmente livre que aceita contribuições via pull requests
 
 ## Recomendação (opcional)
 
-Para uma melhor semântica nos commits, recomendamos nosso repositório sobre [padrões de commits](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
+Para uma melhor semântica nos commits, recomendamos nosso repositório sobre [padrões de commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/). Assim ficará mais fácil para avaliar seu pull request.

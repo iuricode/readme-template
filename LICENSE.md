@@ -1,4 +1,4 @@
-#### Copyright © 2020 / [Tuerê Pinto](https://github.com/tuerepinto)
+#### Copyright © 2024 / [Tuerê Pinto](https://github.com/tuerepinto)
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, sem restrição nos direitos de usar, copiar, modificar e mesclar.
 
@@ -9,3 +9,4 @@ A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cóp
 - [Readme](https://github.com/guodongxiaren/README)
 - [Badges shields](https://github.com/badges/shields)
 - [Template readme](https://github.com/DiasEllen26/template-readme)
+- [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0-beta.4/)
