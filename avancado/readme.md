@@ -1,4 +1,4 @@
-# 🐙 Formações avançadas
+# 🐙 Formatações avançadas
 
 ## Alertas
 
@@ -45,7 +45,7 @@ You can add an image or a code block, too.
 
 ## Diagramas do Mermaid
 
-O Mermeid é uma ferramenta inspirada em Markdown que transforma texto em diagramas. Por exemplo, o Mermeid pode interpretar gráficos de fluxo, diagramas de sequência, gráficos de pizza e muito mais.
+O Mermaid é uma ferramenta inspirada em Markdown que transforma texto em diagramas. Por exemplo, o Mermaid pode interpretar gráficos de fluxo, diagramas de sequência, gráficos de pizza e muito mais.
 
 Para criar um diagrama do Mermaid, adicione a sintaxe do Mermaid dentro de um bloco de código isolado com o identificador de linguagem mermaid. 
 
