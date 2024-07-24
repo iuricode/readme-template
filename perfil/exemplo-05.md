@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é {seu nome}!
 
-Faça uma breve aprensentação sobre você e a sua stack.
+Faça uma breve apresentação sobre você e a sua stack.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 

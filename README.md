@@ -4,7 +4,7 @@ Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de mod
 
 ## Templates de perfil ☕️
 
-Diga adeus aos perfis sem graça. Com nossos **[templates de perfil](https://github.com/iuricode/readme-template/tree/main/perfil)**, você terá um readme de perfil íncrivel. Com cores vibrantes,imagens surpreendentes e outros elementos visuais cativantes.
+Diga adeus aos perfis sem graça. Com nossos **[templates de perfil](https://github.com/iuricode/readme-template/tree/main/perfil)**, você terá um readme de perfil incrível. Com cores vibrantes, imagens surpreendentes e outros elementos visuais cativantes.
 
 ## Templates de repositório 🎉
 
