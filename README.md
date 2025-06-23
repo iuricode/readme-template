@@ -1,24 +1,51 @@
-<h1 align="center">
-📄<br>README Template
-</h1>
+Resumo Pessoal
+Olá, meu nome é Anna Santos, sou formada em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedora de software, com experiência prática no desenvolvimento, codificação e testes de aplicações robustas, escaláveis e alinhadas às boas práticas da engenharia de software.
 
-## Selecione o README que deseja usar
+Tenho experiência no desenvolvimento de soluções utilizando Visual Basic e C# no back-end, combinados com JavaScript no front-end, sempre com foco em eficiência e qualidade. Atuo de forma colaborativa com equipes multidisciplinares, contribuindo na definição de requisitos, implementação de soluções técnicas e entrega de produtos confiáveis.
 
-[![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/iuricode/readme-template/tree/main/profile)
-[![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/iuricode/readme-template/blob/main/repository)
+Sou uma profissional comprometida com a melhoria contínua, qualidade do código e inovação. Tenho familiaridade com arquitetura baseada em microserviços, testes automatizados, versionamento com Git e bancos de dados relacionais e NoSQL. Acredito que tecnologia é uma ferramenta poderosa para gerar valor, e por isso busco constantemente evoluir minhas habilidades e contribuir com soluções inteligentes.
 
+Aberta a novos desafios e com grande interesse em crescer profissionalmente, estou sempre pronta para contribuir em projetos que unam tecnologia, inovação e trabalho em equipe.
 
-## Recursos para o README
+⚙️ Desenvolvimento de Software
+Back-end: C#, Visual Basic (.NET), ASP.NET, ASP.NET MVC, Entity Framework
 
-[![Card](https://img.shields.io/badge/cards%20estrelas%20-%23323330.svg?&style=for-the-badge&logo=cards%20estrelas&logoColor=black&color=FFB800)](https://github.com/iuricode/readme-template/blob/main/cards-stats/cards-stats.md)
-[![Badge](https://img.shields.io/badge/badges%20-%23323330.svg?&style=for-the-badge&logo=badges&logoColor=black&color=006DEC)](https://github.com/iuricode/readme-template/blob/main/badges/badges.md)
+Front-end: JavaScript, HTML5, CSS3
 
----
+Arquiteturas: Microserviços, APIs RESTful
 
-## ☕ Seja um dos contribuidores
+Testes: Unitários, automatizados, E2E
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
+Bancos de Dados:
 
-## 🍜 Licença
+Relacionais: SQL Server, PostgreSQL
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
+NoSQL: MongoDB
+
+Ambientes de Desenvolvimento: Visual Studio, Visual Studio Code (VSCode)
+
+Controle de Versão: Git
+
+Metodologias: Programação Orientada a Objetos (POO), Integração Contínua, Práticas Ágeis
+
+💡 Competências Técnicas
+Desenvolvimento de software escalável com foco em performance e boas práticas
+
+Implementação e manutenção de soluções back-end com C# e VB.NET
+
+Desenvolvimento front-end dinâmico utilizando JavaScript
+
+Criação e integração de microserviços, promovendo modularidade e eficiência
+
+Aplicação de testes automatizados para garantir confiabilidade dos sistemas
+
+Uso de bancos de dados relacionais e NoSQL com fluidez
+
+Suporte técnico e correção de bugs para evolução contínua das aplicações
+
+💼 Entre em contato comigo:
+<div> 
+<a href="https://www.instagram.com/kxmvkbk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:anna.clara16f@yahoo.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/annacosantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+</div>
