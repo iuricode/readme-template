@@ -1,31 +1,48 @@
-# Readme Template 📜
+🌟 Resumo Pessoal
+Olá, meu nome é Anna Santos, sou formada em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedora de software, com experiência prática no desenvolvimento, codificação e testes de aplicações robustas, escaláveis e alinhadas às boas práticas da engenharia de software.
 
-Bem-vindo(a) ao **Readme Template**! Aqui você encontrará uma variedade de modelos de readme para usar em seus repositórios e perfil no GitHub. Explore nossa coleção de templates e encontre aquele que melhor se adequa ao seu projeto. Comece agora mesmo e deixe o seu readme brilhar!
+Tenho experiência no desenvolvimento de soluções utilizando Visual Basic e C# no back-end, combinados com JavaScript no front-end, sempre com foco em eficiência e qualidade. Atuo de forma colaborativa com equipes multidisciplinares, contribuindo na definição de requisitos, implementação de soluções técnicas e entrega de produtos confiáveis.
 
-## Templates de perfil ☕️
+Sou uma profissional comprometida com a melhoria contínua, qualidade do código e inovação. Tenho familiaridade com arquitetura baseada em microserviços, testes automatizados, versionamento com Git e bancos de dados relacionais e NoSQL. Acredito que tecnologia é uma ferramenta poderosa para gerar valor, e por isso busco constantemente evoluir minhas habilidades e contribuir com soluções inteligentes.
 
-Diga adeus aos perfis sem graça. Com nossos **[templates de perfil](https://github.com/iuricode/readme-template/tree/main/perfil)**, você terá um readme de perfil incrível. Com cores vibrantes, imagens surpreendentes e outros elementos visuais cativantes.
+Aberta a novos desafios e com grande interesse em crescer profissionalmente, estou sempre pronta para contribuir em projetos que unam tecnologia, inovação e trabalho em equipe.
 
-## Templates de repositório 🎉
+⚙️ Desenvolvimento de Software
+Back-end: C#, Visual Basic (.NET), ASP.NET, ASP.NET MVC, Entity Framework
 
-Documente seus projetos com nossos exemplos de **[templates de repositório](https://github.com/iuricode/readme-template/tree/main/repositorio)** incríveis. Esses templates abrangem diversas seções essenciais, incluindo descrição, instalação, uso, contribuição e licença.
+Front-end: JavaScript, HTML5, CSS3
 
-## Status e badges shields 🦄
+Arquiteturas: Microserviços, APIs RESTful
 
-Aperfeiçoe o seu perfil e os seus repositórios adicionando **[cards de status](https://github.com/iuricode/readme-template/tree/main/cards-status/readme.md)** e **[badges shields](https://github.com/iuricode/readme-template/tree/main/badges-shields/readme.md)** ao seu readme. Esses cards proporcionam uma visão aprimorada e detalhada das informações relevantes, tornando o seu perfil e os seus projetos ainda mais impressionantes.
+Testes: Unitários, Automatizados, E2E
 
-## Formatações avançadas 🔥
+Ambientes de Desenvolvimento: Visual Studio, Visual Studio Code (VSCode)
 
-Melhore seus readmes adicionando interações com as **[formatações avançadas.](https://github.com/iuricode/readme-template/tree/main/avancado/readme.md)**
+Controle de Versão: Git
 
-## Contribuição ✨
+Metodologias: Programação Orientada a Objetos (POO), Integração Contínua, Práticas Ágeis
 
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/readme-template/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/readme-template/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
+🗄️ Bancos de Dados
+Relacionais: SQL Server, PostgreSQL
 
-## Disponível para freelas - #OpenToWork 🚀
+NoSQL: MongoDB
 
-Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
+💡 Competências Técnicas
+Desenvolvimento de software escalável com foco em performance e boas práticas
 
-📬 Entre em contato:
-📧 iuricold99@gmail.com
-💼 [Linkedin](https://www.linkedin.com/in/iuricode/)
+Implementação e manutenção de soluções back-end com C# e VB.NET
+
+Desenvolvimento front-end dinâmico utilizando JavaScript
+
+Criação e integração de microserviços, promovendo modularidade e eficiência
+
+Aplicação de testes automatizados para garantir confiabilidade dos sistemas
+
+Uso de bancos de dados relacionais e NoSQL com fluidez
+
+Suporte técnico e correção de bugs para evolução contínua das aplicações
+
+💼 Entre em contato comigo:
+<div> <a href="https://www.instagram.com/kxmvkbk" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> 
+<a href="mailto:anna.clara16f@yahoo.com.br" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
+<a href="https://www.linkedin.com/in/annacosantos/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
