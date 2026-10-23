@@ -1,3 +1,5 @@
+# Cards de status
+
 ## Como usar os cards?
 
 Como usar? É simples: copie e cole em seu readme e pronto!
@@ -26,7 +28,7 @@ Altere o `iuricode` para o nome de usuário do GitHub.
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-## Ou
+### Sem esconder nenhuma linguagem
 
 ```md
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -64,7 +66,7 @@ Temas disponíveis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, 
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=merko)](<[https://github.com/iuricode/](https://github.com/anuraghazra/github-readme-stats)>)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Gruvbox
 

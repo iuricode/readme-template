@@ -1,6 +1,6 @@
 ## Olá, meu nome é {seu nome}!
 
-### ⚙️ GitHub Analytics
+### ⚙️ Estatísticas do GitHub
 
 <table>
   <tr>
@@ -8,52 +8,36 @@
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
+        alt="Estatísticas do GitHub"
       />
     </td>
     <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
+        alt="Linguagens mais usadas"
       />
     </td>
     <td>
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
+        src="https://streak-stats.demolab.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Sequência de contribuições"
       />
     </td>
   </tr>
 </table>
 
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
 ---
 
 <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Visitantes do perfil</b></h3>
 </div>
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://komarev.com/ghpvc/?username=iuricode&label=Visitantes&color=006bed"
     alt="Número de visitantes no perfil"
   />
 </p>
